@@ -1,8 +1,8 @@
 # Delta Mobile - ASX
 الموقع الرسمي لتحميل نسخة دلتا (Delta Executor) المخصصة للأيفون.
 ## 📥 روابط التحميل (Download)
-* [تحميل Delta v2.718 للأيفون والأيباد](حط رابط الـ Release هنا)
-## 📋 معلومات الإصدار
+* [تحميل Delta v2.718 للأيفون والأيباد](https://github.com/xd6397943-rgb/Delta-ASX-mobile/releases/download/v1/Delta-2.718.1110.ipa)
+📋 معلومات الإصدار
 * الإصدار الحالي: v2.718
 * يدعم: iOS 15, 16, 17, 18
 * المتطلبات: متجر توقيع (KSign / ESign)
