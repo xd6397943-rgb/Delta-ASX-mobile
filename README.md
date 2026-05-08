@@ -19,7 +19,7 @@
 
 ## 💬 الدعم الفني
 للمساعدة أو الاستفسارات، انضم لسيرفرنا في الديسكورد:
-[ASX Server](https://discord.gg/asx)
+[ASX Server](https://discord.gg/euDg4uGYQ)
 
 ---
 *تم التطوير بواسطة Vesper*
